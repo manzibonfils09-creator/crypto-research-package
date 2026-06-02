@@ -1,61 +1,54 @@
-# 🔍 Crypto Research Package
-### *Before You Buy — Know What You're Buying*
+# 🧠 Crypto Research Package — by Manzi Bonfils
 
-> Built by [Manzi Bonfils](https://github.com/manzibonfils09-creator) | Kigali, Rwanda
-
-A complete research framework for evaluating any cryptocurrency before investing. This package gives you the tools, checklists, and mental models to separate signal from noise in the crypto market.
+> *Built for researchers who don't want to waste time figuring out which tools actually work.*
 
 ---
 
-## 📦 What's Inside
+## ⚠️ Before You Start — Read This
 
-```
-crypto-research-package/
-├── 📁 guides/
-│   ├── 01-whitepaper-analysis.md       # How to read & dissect a whitepaper
-│   ├── 02-tokenomics-breakdown.md      # Supply, vesting, inflation — decoded
-│   ├── 03-team-and-community.md        # Who's building it & who believes in it
-│   └── 04-on-chain-analysis.md         # Reading blockchain data like a pro
-├── 📁 tools/
-│   └── best-research-tools.md          # Top platforms for crypto due diligence
-├── 📁 checklists/
-│   └── coin-research-checklist.md      # Full checklist before buying any coin
-└── 📁 templates/
-    └── research-report-template.md     # Fill-in template for any coin you research
-```
+Most people spend weeks testing tools, paying for the wrong subscriptions, and losing money on bad data.
+
+This repo exists to shortcut that.
+
+Every tool listed in the `/affiliate-tools` folder has been vetted, tested, and integrated into the research frameworks inside this repo. They're not random recommendations — they're the exact stack used to build the analysis systems you'll find here.
+
+**Here's the thing:** most of these platforms have waitlists, trial limits, or paywalls that slow you down before you even get to the good stuff.
+
+> 💡 **Using the affiliate links or promo codes in `/affiliate-tools` does two things:**
+> 1. It skips the friction — priority access, discounted entry, or onboarding perks that aren't advertised on the homepage.
+> 2. It supports continued development of this research framework at zero extra cost to you.
+
+Think of it as a side door. Same destination — fewer obstacles.
 
 ---
 
-## 🧠 The 5-Pillar Framework
+## 📁 What's Inside This Repo
 
-Every coin you evaluate should pass through these 5 pillars:
-
-| Pillar | Question |
+| Folder | What It Does |
 |---|---|
-| 1. **Purpose** | Does this coin solve a real problem? |
-| 2. **Tokenomics** | Is the supply model sustainable? |
-| 3. **Team** | Are the builders credible and doxxed? |
-| 4. **Community** | Is there real organic belief, or just hype? |
-| 5. **On-Chain Data** | What does the blockchain actually show? |
-
-If a coin fails 2 or more pillars — walk away.
+| `/whitepaper-analysis` | Framework for reading and scoring whitepapers |
+| `/tokenomics` | Supply, vesting, emission, and distribution models |
+| `/on-chain-analysis` | Metrics, wallet tracking, and smart money signals |
+| `/affiliate-tools` | The exact tools used — with access shortcuts |
 
 ---
 
-## ⚡ Quick Start
+## 🚀 Quick Start
 
-1. Pick a coin you're considering
-2. Open `checklists/coin-research-checklist.md`
-3. Go through every item before making a decision
-4. Document your findings in `templates/research-report-template.md`
-5. Cross-reference with the tools in `tools/best-research-tools.md`
-
----
-
-## ⚠️ Disclaimer
-
-This package is for **educational purposes only**. Nothing here is financial advice. Always do your own research (DYOR) and never invest more than you can afford to lose.
+1. Clone the repo
+2. Go to `/affiliate-tools` first — set up your stack before diving into research
+3. Use the frameworks to structure your due diligence
+4. Make smarter decisions faster
 
 ---
 
-*Built from Kigali. Thinking globally.*
+## 🔗 Connect
+
+Built by **Manzi Bonfils** — AI systems designer & crypto researcher, Kigali 🇷🇼
+
+[![GitHub](https://img.shields.io/badge/GitHub-manzibonfils09--creator-black?style=flat&logo=github)](https://github.com/manzibonfils09-creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzi%20Bonfils-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manzi-bonfils)
+
+---
+
+*If this helped you make one better trade — it did its job.*
