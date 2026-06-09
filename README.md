@@ -1,48 +1,57 @@
-# 🧠 Crypto Research Package — by Manzi Bonfils
+# 🔬 Crypto Research Package
+### Built by Manzi Bonfils — AI Systems Designer & Crypto Researcher | Kigali, Rwanda
 
-> *Built for researchers who don't want to waste time figuring out which tools actually work.*
+> Stop guessing. Start knowing.
+
+This repository is a complete **crypto research framework** — whitepapers, tokenomics templates, on-chain analysis guides, smart money tracking, and a 40-point investment checklist.
 
 ---
 
-## ⚠️ Before You Start — Read This
+## ⚡ Skip the research queue → Try DeepCoin
 
-Most people spend weeks testing tools, paying for the wrong subscriptions, and losing money on bad data.
+I built an AI that does this analysis automatically in 30 seconds.
 
-This repo exists to shortcut that.
+**[→ Run a coin through DeepCoin](https://app.base44.com/apps/6758e4a0cadf19c3c8e6516e)**
 
-Every tool in `/fast-track-access` has been tested and built into the research frameworks here. They're not random recommendations — they're the exact stack used to build everything in this repo.
-
-> 💡 **Start with `/fast-track-access`** — most of these platforms have waitlists, trial limits, or pricing walls that slow you down before you even get to the good stuff. That folder has the side doors.
+Drop any ticker. Get scores across 5 dimensions: Tokenomics · On-Chain · Team · Community · Smart Money. One verdict. No noise.
 
 ---
 
 ## 📁 What's Inside
 
-| Folder | What It Does |
-|---|---|
-| `/whitepaper-analysis` | Framework for reading and scoring whitepapers |
-| `/tokenomics` | Supply, vesting, emission, and distribution models |
-| `/on-chain-analysis` | Metrics, wallet tracking, and smart money signals |
-| `/fast-track-access` | The tools — with the entry points most people miss |
+```
+crypto-research-package/
+├── whitepaper-analysis/     ← How to read and score a whitepaper
+├── tokenomics/              ← Token structure frameworks & red flags
+├── on-chain-analysis/       ← Wallet tracking, smart money signals
+├── investment-checklist/    ← 40-point pre-buy checklist
+├── report-template/         ← Standard research report format
+└── fast-track-access/       ← Premium tools (TradingView, Nansen, LunarCrush)
+```
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Fast-Track Tools
 
-1. Clone the repo
-2. Go to `/fast-track-access` first — set up your stack before diving into research
-3. Use the frameworks to structure your due diligence
-4. Make smarter decisions faster
+| Tool | What It Does | Link |
+|------|-------------|------|
+| TradingView | Charts & technical analysis | [Access](https://www.tradingview.com/gopro/?share_your_love=167258) |
+| Nansen | On-chain smart money tracking | [Access](https://app.nansen.ai/?ref=48ZD1pdfPXQ) |
+| LunarCrush | Social sentiment & community | Coming soon |
 
----
-
-## 🔗 Connect
-
-Built by **Manzi Bonfils** — AI systems designer & crypto researcher, Kigali 🇷🇼
-
-[![GitHub](https://img.shields.io/badge/GitHub-manzibonfils09--creator-black?style=flat&logo=github)](https://github.com/manzibonfils09-creator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manzi%20Bonfils-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manzi-bonfils)
+Promo code: **MANZI10** on international tools.
 
 ---
 
-*If this helped you make one better trade — it did its job.*
+## 🤖 Built by
+
+**Manzi Bonfils** — AI systems designer, crypto researcher, builder.
+Based in Kigali, Rwanda. Building at the intersection of AI and Web3 for African markets.
+
+- 🌐 [DeepCoin App](https://app.base44.com/apps/6758e4a0cadf19c3c8e6516e)
+- 💼 [LinkedIn](https://linkedin.com/in/manzibonfils)
+- 🐙 [GitHub](https://github.com/manzibonfils09-creator)
+
+---
+
+*If this helped your research, star the repo and share it with someone who needs it.*
